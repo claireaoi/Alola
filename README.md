@@ -45,11 +45,10 @@ This project is very open to new ideas, feedbacks and contributions, so everyone
 
 Yes, we're currently updating our website with a few open-source workshops, stay tuned!
 
-Oh, and we adhere to the Berlin code of conduct.
+Oh, and we adhere to the [Berlin code of conduct](https://berlincodeofconduct.org/).
 
 ... and thanks for visiting this repo, we hope you will join on this journey somehow. 🐙
 
 
 
-Creative Commons License
-This work is licensed under a Creative Commons Attribution 4.0 International License. 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
