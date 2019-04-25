@@ -6,7 +6,7 @@
 
 ## What is Alola? 🐙🤖
 
-Alola is a non-profit organisation prototyping tools to facilitate creative workshops for kids beyond language and cultural differences. 
+[Alola](https://alola.world) is a non-profit organisation prototyping tools to facilitate creative workshops for kids beyond language and cultural differences. 
 
 Alola has hatched from a collaborative residency in south of France, la [Hive](http://www.hivers.fr/) at [thecamp](https://thecamp.fr/) and was founded by Julia, [Claire](https://github.com/claireaoi), Aline, Sandile, and Léa.
 
@@ -22,7 +22,7 @@ Our mission is to help to foster social inclusion and wellbeing for the next gen
 Alola´s Open Movement specifically aims at building openly and collaboratively creative low-cost activities for kids who don’t necessarily speak the same language or share the same culture. These would be accessible on our platform, to enable any volunteer to grasp some ready-made workshops, or simply inspiration. 
 By adopting an open-source philosophy, Alola wants to enable everyone to become an actor to create a flourishing multicultural society and reach as many children as possible, while benefitting from the energy, passion and skills from any individual. Like you. :)
 
-Online, Alola takes form as a platform which has 3 main poles: the workshop ressources, the tangible tools and the community:
+Online, Alola is a [platform](https://alola.world) with 3 main poles: the workshop ressources, the tangible tools and the community:
 
 (screen shot website >>>)
 
