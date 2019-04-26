@@ -1,10 +1,11 @@
 # Contributor Guidelines
 
-👍🎉 * First off, thanks for taking the time to contribute and sharing your ideas!* 🎉👍
+👍🎉 **First off, thanks for taking the time to contribute and sharing your ideas!** 🎉👍
+
 We very glad to see our project sparked some interests, and that you are eager to share an idea for a workshop.
 These few lines will guide you to this process, about the what and the how.
 
-What to share?
+## What to share?
 Our workshops are aimed at a public (usually 6-14 years old) who do not necessarily share the same language, which is quite a constraint for the activity itself. We can bypass the traditional language, or use multi-languages sometimes thanks to other visual, gestural or sonor languages and supports. Even if your idea is not perfectly fit for such a workshop, you could still share it, and our team will try to adapt it in such a context.
 
 Also, your creative ideas are welcome, even though they are not complete ready-made workshops, since they could inspire us.
