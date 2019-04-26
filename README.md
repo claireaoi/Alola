@@ -1,6 +1,7 @@
 # Alola
  A crowdsourced platform to provide tools for workshops with children beyond language and cultural differences.
 
+![Logo](./elements/logo.png)
 
 🎈 Hello there 🎈
 
@@ -32,7 +33,7 @@ Workshop ressources: here you'll find curated workshops on different topics with
 
 This project is very open to new ideas, feedbacks and contributions, so everyone is welcome to reach us. More specifically:
 
-- Are you an amateur, student or professionnal with an idea for a workshop that could be adapted for children who don´t speak the same language ? May it be a draft of an idea, or ready-made, we would be very grateful if you share it for our open-source. Go towards the Workshop repository (...), read the HowtoProposeaWorkshop, and just go for it. :) 
+)- Are you an amateur, student or professionnal with an idea for a workshop that could be adapted for children who don´t speak the same language ? May it be a draft of an idea, or ready-made, we would be very grateful if you share it for our open-source. Read the [HowtoContribute](./HowtoContribute.md), and then you would be able to had your proposition in the Workshops repo. :) 
 
 - Are you an organisation, a volunteer or an educator and wanna organise a workshop? Find our activities on our platform, ready to download.
 
@@ -43,7 +44,7 @@ This project is very open to new ideas, feedbacks and contributions, so everyone
 
 ## Something else?
 
-Yes, we're currently updating our website with a few open-source workshops, stay tuned!
+Yes, we're currently updating our [website](https://alola.world) with a few open-source workshops, stay tuned!
 
 Oh, and we adhere to the [Berlin code of conduct](https://berlincodeofconduct.org/).
 
