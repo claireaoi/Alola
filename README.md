@@ -1,7 +1,7 @@
 # Alola
  A crowdsourced platform to provide tools for workshops with children beyond language and cultural differences.
 
-![Logo](./elements/logo.png)
+![Logo](./elements/logo.png= 250x)
 
 🎈 Hello there 🎈
 
@@ -11,7 +11,6 @@
 
 Alola has hatched from a collaborative residency in south of France, la [Hive](http://www.hivers.fr/) at [thecamp](https://thecamp.fr/) and was founded by Julia, [Claire](https://github.com/claireaoi), Aline, Sandile, and Léa.
 
-(picture >>>)
 
 ## What are we doing? And why? 👦🎈👧 
 
@@ -25,7 +24,6 @@ By adopting an open-source philosophy, Alola wants to enable everyone to become 
 
 Online, Alola is a [platform](https://alola.world) with 3 main poles: the workshop ressources, the tangible tools and the community:
 
-(screen shot website >>>)
 
 Workshop ressources: here you'll find curated workshops on different topics with all the information you will need to run them. You can as well share your feedback or submit new propositions for workshops.
 
@@ -33,9 +31,9 @@ Workshop ressources: here you'll find curated workshops on different topics with
 
 This project is very open to new ideas, feedbacks and contributions, so everyone is welcome to reach us. More specifically:
 
-)- Are you an amateur, student or professionnal with an idea for a workshop that could be adapted for children who don´t speak the same language ? May it be a draft of an idea, or ready-made, we would be very grateful if you share it for our open-source. Read the [HowtoContribute](./HowtoContribute.md), and then you would be able to had your proposition in the Workshops repo. :) 
+- Are you an amateur, student or professionnal with an idea for a workshop that could be adapted for children who don´t speak the same language ? May it be a draft of an idea, or ready-made, we would be very grateful if you share it for our open-source. Read the [HowtoContribute](HowToContribute.md), and then you would be able to had your proposition in the Workshops repo. :) 
 
-- Are you an organisation, a volunteer or an educator and wanna organise a workshop? Find our activities on our platform, ready to download.
+- Are you an organisation, a volunteer or an educator and wanna organise a workshop? Find our activities on our [platform](https://alola.world/workshops), ready to download.
 
 - Are you an enthusiast citizen and would like to help somehow but don´t know how? We would be glad to welcome you and orient you further. Just drop us a line at contact@alola.world .
 
