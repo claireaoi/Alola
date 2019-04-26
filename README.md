@@ -1,9 +1,8 @@
-# 🎈 <img src="./elements/logo.png" width="220"> 🎈
+# <img src="./elements/logo.png" width="220"> 
 
 
-Hello there,
+🎈 Hello there 🎈
 
-We are Alola.
 
 ## What is Alola? 🐙🤖
 
