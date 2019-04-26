@@ -1,8 +1,8 @@
 # Alola
  A crowdsourced platform to provide tools for workshops with children beyond language and cultural differences.
 
-![Logo](./elements/logo.png)
-<img src="./elements/logo.png" width="48">
+
+<img src="./elements/logo.png" width="200">
 
 🎈 Hello there 🎈
 
