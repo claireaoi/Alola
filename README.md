@@ -1,8 +1,6 @@
-# Alola
+<img src="./elements/logo.png" width="300">
  A crowdsourced platform to provide tools for workshops with children beyond language and cultural differences.
 
-
-<img src="./elements/logo.png" width="200">
 
 🎈 Hello there 🎈
 
