@@ -1,4 +1,4 @@
-# <img src="./elements/logo.png" width="280" class="center"> 
+# <img src="./elements/logo.png" width="280"> 
 
 
 🎈 Hello there 🎈
